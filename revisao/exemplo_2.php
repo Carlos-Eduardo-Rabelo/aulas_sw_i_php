@@ -9,7 +9,7 @@
             echo "Rio de Janeiro";
             //break;
         default:
-            ech "Sigla nao encontrada";
+            echo "Sigla nao encontrada";
     }
 
 
