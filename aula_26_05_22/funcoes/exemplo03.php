@@ -2,7 +2,7 @@
 //Função com retorn e sem parametro 
 
 function teste3(){
-    $b = 'Gabi';
+    $b = 'Carlos';
     return $b;
 }
 

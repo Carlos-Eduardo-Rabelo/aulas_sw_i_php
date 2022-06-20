@@ -2,7 +2,7 @@
 //Função sem retorno e sem parametro
 
 function teste(){
-    echo "Gabi";
+    echo "Carlos";
 }
 teste();
 echo "<hr>";
@@ -22,7 +22,7 @@ echo "<hr>";
 //Função com retorn e sem parametro 
 
 function teste3(){
-    $b = 'Gabi';
+    $b = 'Carlos';
     return $b;
 }
 
